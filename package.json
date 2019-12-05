@@ -1,7 +1,7 @@
 {
   "name": "feathers-coinapi",
   "description": "A Feathers service for CoinAPI",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "homepage": "https://github.com/johnatspreadstreet/feathers-coinapi",
   "main": "lib/",
   "keywords": [
@@ -47,6 +47,7 @@
   },
   "dependencies": {
     "@feathersjs/errors": "^4.3.11",
+    "axios": "^0.19.0",
     "cloudinary": "^1.17.0"
   },
   "devDependencies": {
