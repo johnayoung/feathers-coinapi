@@ -12,7 +12,23 @@ npm install feathers-coinapi --save
 
 ## Documentation
 
-TBD
+Please refer to the [CoinAPI Docs](https://docs.coinapi.io/) for options that can be passed.
+
+### Available Services
+
+The following services are supported and map to the appropriate Stripe resource:
+
+- `ExchangeRates`
+- `Metadata`
+- `OhlcvHistorical`
+- `OhlcvLatest`
+- `OrderbooksCurrent`
+- `OrderbooksHistorical`
+- `OrderbooksLatest`
+- `QuotesCurrent`
+- `QuotesLatest`
+- `TradesHistorical`
+- `TradesLatest`
 
 ## Complete Example
 
