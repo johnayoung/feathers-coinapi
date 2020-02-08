@@ -1,7 +1,5 @@
 # feathers-coinapi
 
-[![Build Status](https://travis-ci.org/feathersjs/plugins.png?branch=master)](https://travis-ci.org/feathersjs/plugins)
-
 > **Unofficial** Feathers plugin service for CoinAPI
 
 ## Installation
