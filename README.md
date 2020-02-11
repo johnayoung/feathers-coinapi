@@ -2,7 +2,7 @@
 
 > **Unofficial** Feathers plugin service for CoinAPI
 
-## Installation
+## Install
 
 ```
 npm install feathers-coinapi --save
