@@ -1,7 +1,7 @@
 {
   "name": "feathers-coinapi",
   "description": "A Feathers service for CoinAPI",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "homepage": "https://github.com/johnatspreadstreet/feathers-coinapi",
   "main": "lib/",
   "keywords": [
