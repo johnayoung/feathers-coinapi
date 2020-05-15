@@ -19,7 +19,9 @@ The following services are supported and map to the appropriate Stripe resource:
 - `ExchangeRates`
 - `Metadata`
 - `OhlcvHistorical`
+- `OhlcvHistoricalAgg`
 - `OhlcvLatest`
+- `OhlcvLatestAgg`
 - `OrderbooksCurrent`
 - `OrderbooksHistorical`
 - `OrderbooksLatest`
