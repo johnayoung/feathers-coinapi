@@ -1,5 +1,29 @@
 # Changelog
 
+## [v0.2.7](https://github.com/johnatspreadstreet/feathers-coinapi/tree/v0.2.7) (2020-05-15)
+
+[Full Changelog](https://github.com/johnatspreadstreet/feathers-coinapi/compare/v0.2.6...v0.2.7)
+
+## [v0.2.6](https://github.com/johnatspreadstreet/feathers-coinapi/tree/v0.2.6) (2020-05-15)
+
+[Full Changelog](https://github.com/johnatspreadstreet/feathers-coinapi/compare/v0.2.5...v0.2.6)
+
+## [v0.2.5](https://github.com/johnatspreadstreet/feathers-coinapi/tree/v0.2.5) (2020-05-15)
+
+[Full Changelog](https://github.com/johnatspreadstreet/feathers-coinapi/compare/v0.2.4...v0.2.5)
+
+## [v0.2.4](https://github.com/johnatspreadstreet/feathers-coinapi/tree/v0.2.4) (2020-05-15)
+
+[Full Changelog](https://github.com/johnatspreadstreet/feathers-coinapi/compare/v0.2.3...v0.2.4)
+
+## [v0.2.3](https://github.com/johnatspreadstreet/feathers-coinapi/tree/v0.2.3) (2020-05-15)
+
+[Full Changelog](https://github.com/johnatspreadstreet/feathers-coinapi/compare/v0.2.2...v0.2.3)
+
+## [v0.2.2](https://github.com/johnatspreadstreet/feathers-coinapi/tree/v0.2.2) (2020-05-15)
+
+[Full Changelog](https://github.com/johnatspreadstreet/feathers-coinapi/compare/v0.2.1...v0.2.2)
+
 ## [v0.2.1](https://github.com/johnatspreadstreet/feathers-coinapi/tree/v0.2.1) (2020-05-15)
 
 [Full Changelog](https://github.com/johnatspreadstreet/feathers-coinapi/compare/v0.2.0...v0.2.1)
