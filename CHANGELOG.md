@@ -1,5 +1,9 @@
 # Changelog
 
+## [v0.2.10](https://github.com/johnatspreadstreet/feathers-coinapi/tree/v0.2.10) (2020-11-06)
+
+[Full Changelog](https://github.com/johnatspreadstreet/feathers-coinapi/compare/v0.2.9...v0.2.10)
+
 ## [v0.2.9](https://github.com/johnatspreadstreet/feathers-coinapi/tree/v0.2.9) (2020-09-08)
 
 [Full Changelog](https://github.com/johnatspreadstreet/feathers-coinapi/compare/v0.2.8...v0.2.9)
